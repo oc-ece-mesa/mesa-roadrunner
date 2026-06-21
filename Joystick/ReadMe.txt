@@ -1,0 +1,2 @@
+For the most up-to-date instructions, please refer to Day2 in the SummerAcademy Google Drive. 
+Link to Day 2 - 3D Printing: https://drive.google.com/drive/folders/1YL0vYcyEtPlM-4HKBN67MzvCvoF0ZM7W?usp=sharing

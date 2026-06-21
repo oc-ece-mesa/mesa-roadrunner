@@ -1,0 +1,13 @@
+CASE
+Lower Radius: 	8.460 mm
+Upper Radius: 	6.644 mm
+Thickness:	3.000 mm
+
+JOYSTICK
+1. Make a sphere of size 17.50 mm cubed
+2. Cut the sphere at 13mm. Only keep the top most portion. You will have made a dome at this point. 
+3. Right-Click on the plate > Add Primitive > Cylinder. 9x9x9mm. Center the cylinder within the dome. Move the cylinder veritcally so that its face is resting on the x-y plane. 
+4. Right-Click the Cylinder > Add Part > Sphere. Align the Sphere's x and y coordinates with the cylinder's. Move the Sphere up to 9mm on the z-axis. Play around with the scaling. Somwhere around 16x16x4 seems good to me. 
+5. Add a torus to the last part that you made. Size 17x17x3.5. Play around and see what looks best to you. Center at 0,0,9 just like the last part you made. 
+6. When you are happy with the result, Shift+Click+Drag, until you have selected all of the parts. Select the Mesh Boolean button. Select Union, Select all parts, and Execute. All parts should be as though they were one. 
+7. Lastly, you will have to subtract out the joystick so that it fits perfectly...
